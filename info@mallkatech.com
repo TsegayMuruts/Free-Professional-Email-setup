@@ -1,4 +1,4 @@
-info@mallkatech.com # Free Professional Email Setup (Zoho + Gmail + Cloudflare)
+# Free Professional Email Setup (Zoho + Gmail + Cloudflare)
 
 **🔗 [Live Demo / GitHub Pages Site](https://npc-ken.github.io/Free-Professional-Email-setup/)**
 
